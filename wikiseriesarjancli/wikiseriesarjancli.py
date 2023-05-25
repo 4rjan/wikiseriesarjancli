@@ -36,6 +36,7 @@ import logging.config
 import json
 import argparse
 import coloredlogs
+import wikiseriesarjanlib
 
 
 __author__ = '''Arjan Houben <arjan@houben.es>'''
